@@ -125,7 +125,7 @@ All templates follow professional FP&A color conventions:
 
 Built by an FP&A professional automating finance work with AI.
 
-- 🔗 LinkedIn: [linkedin.com/in/elb1289](https://linkedin.com/in/elb1289)
+- 🔗 LinkedIn: [www.linkedin.com/in/eduardo-lopez-benatuil]
 - 📧 Contact: elb1289@gmail.com
 
 ---
